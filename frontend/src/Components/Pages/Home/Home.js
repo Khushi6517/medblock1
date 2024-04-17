@@ -15,9 +15,9 @@ export const Home = () => {
         <div className="home__left">
           <h1>
             Welcome to
-            <br /> <span style={{ color: "#0cb097" }}>MEDICATOR</span>
+            <br /> <span style={{ color: "#0cb097" }}>MEDBLOCK</span>
           </h1>
-          <p>Blockchain Based Medicine Authentication Application</p>
+          <p>QR Code based tracing</p>
           <button
             onMouseEnter={() => setMouseHover(true)}
             onMouseLeave={() => setMouseHover(false)}
